@@ -1,0 +1,6 @@
+{
+  "name": "SMOE Agents Chat",
+  "description": "Sparse Mixture-of-Experts (SMoE) multi-agent collaborative chat platform with Hana orchestration and 8 specialized capability agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
